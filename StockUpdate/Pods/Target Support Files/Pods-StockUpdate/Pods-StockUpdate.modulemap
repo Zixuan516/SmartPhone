@@ -1,0 +1,6 @@
+framework module Pods_StockUpdate {
+  umbrella header "Pods-StockUpdate-umbrella.h"
+
+  export *
+  module * { export * }
+}
