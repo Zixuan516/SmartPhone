@@ -2,12 +2,12 @@
 //  AppDelegate.swift
 //  CardGameUI
 //
-//  Created by Ashish Ashish on 10/7/20.
+//  Modified by Zixuan Xiao on 10/9/20.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
