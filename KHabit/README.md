@@ -1,5 +1,5 @@
 
-# Functions
+# Features
 
 Add/delete tasks: users could add and delete tasks to their task list.
 
